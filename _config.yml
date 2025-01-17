@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilea.png"
   name             : "Charis Graham"
   pronouns         : "she/her"  
   bio              : "Computer Science student at Carnegie Mellon University, with special interests in NLP, machine learning, and computational linguistics."
