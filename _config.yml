@@ -14,7 +14,7 @@ name                     : &name "Charis Graham"
 description              : &description "CS student at Carnegie Mellon University"
 url                      : https://charis-graham.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Charis-Graham/Charis-Graham.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Charis Graham"
+  linkedin         : "www.linkedin.com/in/charis-graham-003309277"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
