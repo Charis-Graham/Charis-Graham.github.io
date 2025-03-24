@@ -13,3 +13,6 @@ Following several different attempts at different approaches, I finally settled 
 
 ### Code Link: 
 [Project 1 Code](https://colab.research.google.com/drive/18nEe8y3mJJCR434kKRWRegPrw7_eVQzM?usp=sharing)  
+
+### Source 1: 
+Jingjing Xu, Hao Zhou, Chun Gan, Zaixiang Zheng, and Lei Li. 2021. Vocabulary Learning via Optimal Transport for Neural Machine Translation. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 7361–7373, Online. Association for Computational Linguistics
