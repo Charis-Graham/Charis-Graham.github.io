@@ -5,8 +5,8 @@ category: manuscripts
 excerpt: 'This paper presents a novel quantum-based approach to subword tokenization of English words, demonstrating its effectiveness compared to traditional algorithms like Unigram SentencePiece, Morfessor, and Byte-Pair Encoding, with the aim of advancing the field of Quantum Natural Language Processing (QNLP).'
 date: 2024-5-01
 venue: '11-424 Subword Modeling'
-slidesurl: 'http://academicpages.github.io/files/quantumslides.pdf'
-paperurl: 'http://academicpages.github.io/files/quantumpaper.pdf'
+slidesurl: 'http://charis-graham.github.io/files/quantumslides.pdf'
+paperurl: 'http://charis-graham.github.io/files/quantumpaper.pdf'
 citation: 'Graham, C. (2024). An Effort Towards Quantum Tokenization.'
 ---
 
