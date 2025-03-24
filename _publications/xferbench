@@ -1,6 +1,7 @@
 ---
 title: "ELCC: the Emergent Language Corpus Collection"
 collection: publications
+permalink: /files/paper1.pdf
 category: conferences
 excerpt: 'Submitted to ICLR 2025. We introduce a collection of corpora generated from open source implementations of emergent communication systems.'
 date: 2024-9-26
