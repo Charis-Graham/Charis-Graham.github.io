@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "BERT/RAG-Based Question-Answer Generation System"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This research paper delves into the evolving field of Natural Language Processing (NLP), focusing specifically on the development of advanced Question and Answer (Q&A) systems.'
+date: 20123-12-01
+venue: '11-411 Natural Language Processing'
+paperurl: 'http://academicpages.github.io/files/bertrag.pdf'
+citation: 'Graham, C., Karra, A., Sacco, F., & Potham, R. (2023). BERT/RAG-Based Question-Answer Generation System. '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research paper delves into the evolving field of Natural Language Processing (NLP), focusing specifically on the development of advanced Question and Answer (Q&A) systems. These systems pose tough linguistic challenges as they require not only advanced information retrieval but also the capability to linguistically structure questions and produce concise, relevant answers. Our group implemented a T5-based question generation system and RAG-based answer generation system. In combination, these two can formulate and answer some arbitrary number of questions based on a Wikipedia article. We used the Stanford Question Answering Dataset (SQuAD) as our primary training data for the project. For question generation, we (novelly) used named entities to find keywords in summarized paragraphs of each passage, T5 to generate questions using the keyword as the answer, and BERT and cosine similarity to filter the questions. For answer generation, we created a word vector space from the vocabulary used in the corpus and use cosine similarity to find the sentence that is most closely related to the question, and then returned this sentence. Our results demonstrate the effectiveness of the T5-based question generation and RAG-based answer generation systems. The advanced question generation system, though not without its challenges, showed substantial improvement in producing syntactically accurate and relevant questions. The RAG-based answer system before fine-tuning generated responses that mostly matched the meaning of the gold-standard responses, but these responses were quite long. However, fine-tuning actually made the responses longer and on average less semantically matched to the gold-standard responses. In conclusion, our research shows that summarizing text before question generation and using a semantics-based retriever on a RAG system for answer generation are simple yet highly effective approaches.
