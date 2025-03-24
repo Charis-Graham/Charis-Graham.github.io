@@ -66,7 +66,7 @@ Activities
 * CMU Board Game Club (Fall 2023 - pres.)
 * Events: 15-112 Hack112 Hackathon (2022); TartanHacks Hackathon (2025)
 
-Publications
+Papers
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
