@@ -1,0 +1,13 @@
+---
+title: "ELCC: the Emergent Language Corpus Collection"
+collection: publications
+category: manuscripts
+permalink: /publication/xferbench
+excerpt: 'We introduce a collection of corpora generated from open source implementations of emergent communication systems.'
+date: 2024-9-26
+venue: 'Journal 1'
+paperurl: 'https://openreview.net/forum?id=X8Mhumi52G'
+citation: 'Boldt, B., Graham, C., & Mortensen, D. R. (2025). ELCC: the Emergent Language Corpus Collection. Retrieved from https://openreview.net/forum?id=X8Mhumi52G'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
