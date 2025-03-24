@@ -4,7 +4,7 @@ excerpt: "The second project for 11-424 Subword Modeling exploring reinflection 
 collection: portfolio
 ---
 
-## 11-424 Subword Modeling Project 2 Problem Statement: 
+## [11-424 Subword Modeling Project 2 Problem Statement](https://dmort27.github.io/subwordmodeling/assignments/project2.html): 
 
 The goal of the second project is to generate the inflectional forms of verbs for Karbardian (kbd), Swahili (swc), and Mixtec (sty) from roots + inflectional information better than non-neural and neural baselines.
 
