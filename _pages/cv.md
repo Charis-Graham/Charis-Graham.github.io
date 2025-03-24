@@ -11,26 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, Carnegie Mellon University with minor in Language Technologies, 2026 (expected)
+* High School Diploma, Pasadena High School, 2022 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Summer Undergraduate Research Intern
+  * Carnegie Mellon University
+  * Combined research into deep transfer learning metric XferBench and the ELCC corpora of emergent
+communication simulations to generate scores for further analysis.
+  * Formulated and tested hypotheses by programming an algorithm to sort, test, and plot linear correlation of
+metadata features found in ELCC and XferBench scores and communicated findings in a peer-reviewed paper.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022-Present: Undergraduate Library Assistant
+  * Carnegie Mellon University Libraries
+  * Managed daily operations of library facilities, including check-ins and check-outs of library materials, assisting
+patrons in finding and using library resources, and maintaining organization of library materials.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Summer Research Connection Intern 
+  * Caltech
+  * Studied basics of quantum computing through startup qBraid quantum computing course.
+  * Reviewed non-expert readability of Google’s quantum chess based tutorials for open-source python library Cirq.
+  * Programmed 3D model of relative quantum percentages of pieces.
   
 Skills
 ======
@@ -44,18 +46,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
