@@ -7,4 +7,4 @@ collection: portfolio
 This is the code associated with the paper presented under the heading **Papers** titled "An Effort Towards Quantum Tokenization."
 
 ### Code Link: 
-[Final Project Code](http://charis-graham.github.io/files/FinalProject.ipynb)  
+[Final Project Code](https://github.com/Charis-Graham/Charis-Graham.github.io/blob/master/files/FinalProject.ipynb)  
