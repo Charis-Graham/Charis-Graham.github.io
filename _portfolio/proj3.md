@@ -4,7 +4,7 @@ excerpt: "The third project for 11-424 Subword Modeling exploring G2P support."
 collection: portfolio
 ---
 
-## 11-424 Subword Modeling Project 3 Problem Statement: 
+## [11-424 Subword Modeling Project 3 Problem Statement](https://dmort27.github.io/subwordmodeling/assignments/project3.html): 
 
 The goal of the third mini-project is to add G2P support for an unsupported language to Epitran or another, comparable framemork. In addition to adding support for the language, you must construct a set of unit tests that guarantee correct behavior of the module/model under varied conditions.
 
