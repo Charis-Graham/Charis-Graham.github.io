@@ -3,9 +3,9 @@ title: "BERT/RAG-Based Question-Answer Generation System"
 collection: publications
 category: manuscripts
 excerpt: 'This research paper delves into the evolving field of Natural Language Processing (NLP), focusing specifically on the development of advanced Question and Answer (Q&A) systems.'
-date: 20123-12-01
+date: 2023-12-01
 venue: '11-411 Natural Language Processing'
-paperurl: 'http://academicpages.github.io/files/bertrag.pdf'
+paperurl: 'http://charis-graham.github.io/files/bertrag.pdf'
 citation: 'Graham, C., Karra, A., Sacco, F., & Potham, R. (2023). BERT/RAG-Based Question-Answer Generation System. '
 ---
 
