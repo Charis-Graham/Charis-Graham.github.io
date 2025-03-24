@@ -64,6 +64,7 @@ Activities
 ======
 * Vice President of Masters of Flying Objects (Fall 2024 - Spring 2025)
 * CMU Board Game Club (Fall 2023 - pres.)
+* Events: 15-112 Hack112 Hackathon (2022); TartanHacks Hackathon (2025)
 
 Publications
 ======
