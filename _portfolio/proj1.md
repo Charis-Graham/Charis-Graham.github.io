@@ -4,7 +4,7 @@ excerpt: "The first project for 11-424 Subword Modeling exploring morphological 
 collection: portfolio
 ---
 
-## 11-424 Subword Modeling Project 1 Problem Statement: 
+## [11-424 Subword Modeling Project 1 Problem Statement](https://dmort27.github.io/subwordmodeling/assignments/project1.html): 
 
 The goal of the first project is to develop a tokenizer—a morphological segmenter—that segments text from an arbitrary language more similarly to gold morpheme segmentations by a linguist than two baselines: a Morfessor baseline and a Unigram tokenization model.
 
