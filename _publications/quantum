@@ -1,0 +1,13 @@
+---
+title: "An Effort Towards Quantum Tokenization"
+collection: publications
+category: manuscripts
+excerpt: 'This paper presents a novel quantum-based approach to subword tokenization of English words, demonstrating its effectiveness compared to traditional algorithms like Unigram SentencePiece, Morfessor, and Byte-Pair Encoding, with the aim of advancing the field of Quantum Natural Language Processing (QNLP).'
+date: 2024-5-01
+venue: '11-424 Subword Modeling'
+slidesurl: 'http://academicpages.github.io/files/quantumslides'
+paperurl: 'http://academicpages.github.io/files/An_Effort_Towards_Quantum_Tokenization (1).pdf'
+citation: 'Graham, C. (2024). An Effort Towards Quantum Tokenization.'
+---
+
+Quantum natural language processing (QNLP) is the field of study of how to perform NLP tasks on quantum hardware (Lorenz et al., 2023). Subword tokenization is a problem that is particularly important in the field of NLP. It is the task of splitting up a text into common character clusters for the purpose of allowing a model to maintain a reasonable vocabulary size while being able to learn representations of tokens and process unknown words into known subword tokens (2024). In this paper, I present a novel implementation of how to perform subword tokenization of English words using a quantum-based system. The system works fairly well in comparison to other common tokenization algorithms such as Unigram SentencePiece, Morfessor, and Byte-Pair Encoding. The motivation behind this is furthering the field of QNLP as well as attempting to generate another system for tokenizing text.
