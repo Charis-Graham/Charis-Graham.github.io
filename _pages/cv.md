@@ -12,21 +12,21 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Carnegie Mellon University with minor in Language Technologies, 2026 (expected)
-  * Selected Coursework: 11-424 Subword Modeling, 11-411 Natural Language Processing, 11-344 ML in Practice
+  * Selected Coursework: 11-424 Subword Modeling, 11-411 Natural Language Processing, 11-344 ML in Practice, 15-386 Neural Comp., 11-711 Advanced Natural Language Processing
 * High School Diploma, Pasadena High School, 2022
   * Selected Coursework: AP Computer Science Principles, Web App Development 1, 2, & 3
 
 Work experience
 ======
+* Summer 2025: AstroAI Summer Research Intern - **Center for Astrophysics, Harvard & Smithsonian**
+  * Researched, designed, and implemented modified supernova MLP/Random Forest classifiers called Superphot+ with a weighted, hierarchical loss function and presented a talk summarizing work at end of the summer while working with team of other interns.
+  * Volunteered at 2025 AstroAI Workshop, engaged in workshop tutorials, and organized and directed Hackathon workshop to develop ML primer for individuals new to machine learning.
+    
 * Summer 2024: Summer Undergraduate Research Intern - **Carnegie Mellon University**
   * Combined research into deep transfer learning metric XferBench and the ELCC corpora of emergent
 communication simulations to generate scores for further analysis.
   * Formulated and tested hypotheses by programming an algorithm to sort, test, and plot linear correlation of
 metadata features found in ELCC and XferBench scores and communicated findings in a peer-reviewed paper.
-
-* Fall 2022 - Present: Undergraduate Library Assistant - **Carnegie Mellon University Libraries**
-  * Managed daily operations of library facilities, including check-ins and check-outs of library materials, assisting
-patrons in finding and using library resources, and maintaining organization of library materials.
 
 * Summer 2021: Summer Research Connection Intern - **Caltech**
   * Studied basics of quantum computing through startup qBraid quantum computing course.
@@ -35,6 +35,12 @@ patrons in finding and using library resources, and maintaining organization of 
   
 Service and leadership
 ======
+* August 2025 - Present: 11-344 Machine Learning in Practice Lead TA - **Carnegie Mellon University**
+  * Promoted to Head TA, overseeing course operations and coordinating the TA team; serve as the primary liaison for instructional and administrative issues and contribute to exam design and review.
+  * Lead office hours and support student learning in a large machine learning course; grade assignments and revise coursework on topics including Naïve Bayes and feature selection.
+* Fall 2022 - Present: Undergraduate Library Assistant - **Carnegie Mellon University Libraries**
+  * Managed daily operations of library facilities, including check-ins and check-outs of library materials, assisting
+patrons in finding and using library resources, and maintaining organization of library materials.
 * February 2020 - February 2022: Vestry Youth Representative - **All Saints Church**
   * Facilitate communication between middle and high-schoolers and governing Vestry board.
   * Participated in eight month structural and budgeting overhaul.
